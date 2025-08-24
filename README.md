@@ -29,63 +29,9 @@ This repository contains four end-to-end machine learning projects built using P
 
 ![image](https://github.com/user-attachments/assets/23dbe418-90fb-449d-8872-1a98778793c3)
 ![image](https://github.com/user-attachments/assets/f4aef39e-5e29-4a96-84c1-7f8bbb800fbc)
-### MONTH 1
-<h1 align="center">Plant-Disease-Detection-and-Solution</h1>
-<div align="center" width="100%">
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-</div>
 
+### MONTH 3
 
-<p align="center">Project on Plant Disease detection and Solutions using Image Classification technique.</p>
-<br>
-
-<div align="center" width="100%">
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-<br>
-
-![conda-python]
-![conda-tensorflow]
-![conda-keras]
-</div>
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Language Used](#language-used)
-  * [Files Required](#files-required)
-  * [Files](#files)
-  * [Inspiration](#inspiration)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-  * [Working](#working)
-* [How We Build It](#how-we-build-it)
-    * [The AI Model](#the-ai-model)
-    * [The Android App](#the-android-app)
-* [Usage](#usage)
-* [Challenges And Accomplishments](#challenges-and-accomplishments)
-  * [Challenges](#challenges)
-  * [Accomplishments](#accomplishments)
-* [Improvising And Upgrading Task](#improvising-and-upgrading-task)
-  * [What we learned](#what-we-learned)
-  * [Whats next](#whats-next)
-  * [Future Task](#future-task)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project is based on Plant Disease Detection using Image Classification with Solution for detected disease of plant. This project comprises of Machine Learning part and Android Application Development part. On Machine Learning side, we developed a well-trained model for image classification which will help to classify the disease of the infected plant. On Android App Dev. part, we click images of infected plant and compare with our classification model, then it detects disease of infected plant and also provides solutions for disease of infected plant.
